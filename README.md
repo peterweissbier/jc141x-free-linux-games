@@ -15,8 +15,6 @@ For technical support, come here.
 
 This is a non-profit project. We do not guarantee that everything can be fixed or will be perfect.
 
-Donations - Monero: 4ABGQLAeAgiauvay11VRrWXRRtraRCU6oaC6uG9RUnNCHN4eepzWjEB6sHF92sUrSED5b8GyY7Ayh57R1jUdcKZg7is2DW3
-
 ---
 
 ## [jc141 - 1337x.to](https://1337x.to/user/johncena141/)
@@ -41,3 +39,5 @@ Pay attention to the domain, there are many copy-cats.
 ### Ideology
 
 We're commies.
+
+Donations - Monero: 4ABGQLAeAgiauvay11VRrWXRRtraRCU6oaC6uG9RUnNCHN4eepzWjEB6sHF92sUrSED5b8GyY7Ayh57R1jUdcKZg7is2DW3
