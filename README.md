@@ -34,8 +34,6 @@ Pay attention to the domain, there are many copy-cats.
 
 ## [jc141 - scripting](https://gitlab.com/jc141x/scripting/)
 
----
-
 ### Ideology
 
 We're commies.
