@@ -34,8 +34,4 @@ Pay attention to the domain, there are many copy-cats.
 
 ## [jc141 - scripting](https://gitlab.com/jc141x/scripting/)
 
-### Ideology
-
-We're commies.
-
 Donations - Monero: 4ABGQLAeAgiauvay11VRrWXRRtraRCU6oaC6uG9RUnNCHN4eepzWjEB6sHF92sUrSED5b8GyY7Ayh57R1jUdcKZg7is2DW3
