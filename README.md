@@ -1,12 +1,3 @@
-## [jc141 - RSS feed](https://github.com/jc141x/releases-feed)
-
-
-## [jc141 - setup guide](https://gitlab.com/jc141x/setup)
-
-
-Everything you need to do before playing our releases.
-
-
 ## [jc141 - matrix](https://matrix.to/#/#rumpowered:matrix.org)
 Room address: #rumpowered:matrix.org
 
@@ -15,6 +6,9 @@ For technical support, come here.
 
 
 This is a non-profit project. We do not guarantee that everything can be fixed or will be perfect.
+
+
+## [jc141 - RSS feed](https://github.com/jc141x/releases-feed)
 
 
 ## [jc141 - 1337x.to](https://1337x.to/user/johncena141/)
