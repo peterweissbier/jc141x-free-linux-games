@@ -1,11 +1,5 @@
-## [jc141 - matrix](https://matrix.to/#/#rumpowered:matrix.org)
+## [matrix - technical support](https://matrix.to/#/#rumpowered:matrix.org)
 Room address: #rumpowered:matrix.org
-
-
-For technical support, come here.
-
-
-This is a non-profit project. We do not guarantee that everything can be fixed or will be perfect.
 
 
 ## [jc141 - RSS feed](https://github.com/jc141x/releases-feed)
