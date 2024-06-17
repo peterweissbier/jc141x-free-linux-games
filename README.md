@@ -1,4 +1,4 @@
-## [matrix - technical support](https://matrix.to/#/#rumpowered:matrix.org)
+## [jc141 matrix channel - technical support](https://matrix.to/#/#rumpowered:matrix.org)
 Room address: #rumpowered:matrix.org
 
 
