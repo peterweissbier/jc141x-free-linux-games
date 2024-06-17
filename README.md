@@ -1,7 +1,7 @@
 ## [jc141x matrix channel - technical support](https://matrix.to/#/#rumpowered:matrix.org)
 Room address: #rumpowered:matrix.org
 
-## Setup your System drivers - everything you need to do before playing our releases. [jc141x](https://gitlab.com/jc141x/setup)
+## [Setup your System drivers - everything you need to do before playing our releases.](jc141x](https://gitlab.com/jc141x/setup)
 
 ## [jc141x torrents on 1337x.to](https://1337x.to/user/johncena141/)
 
