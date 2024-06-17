@@ -2,8 +2,6 @@
 
 https://matrix.to/#/#rumpowered:matrix.org
 
-Room address: #rumpowered:matrix.org
-
 ## setting up your system drivers
 
 https://gitlab.com/jc141x/setup
