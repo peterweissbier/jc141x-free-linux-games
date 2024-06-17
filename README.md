@@ -20,7 +20,7 @@ Pay attention to the domain; there are many copycats.
 - These are the official 1337x domains. If you came from one with a different domain, then it's fake, and we won't provide support for anything downloaded from there.
 - If your ISP has blocked 1337x, then use [Tor](https://www.torproject.org/), a VPN, or a trusted public proxy. Read more: https://1337x-proxy.github.io/</pre>
 
-## browsing jc141x releases on 1337x.to via RSS feed
+## browsing jc141x releases via RSS feed
 
 <pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">https://github.com/jc141x/releases-feed</pre>
 
