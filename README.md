@@ -1,14 +1,14 @@
-## [jc141 matrix channel - technical support](https://matrix.to/#/#rumpowered:matrix.org)
+## [jc141x matrix channel - technical support](https://matrix.to/#/#rumpowered:matrix.org)
 Room address: #rumpowered:matrix.org
 
-## [Everything you need to do before playing our releases.](https://gitlab.com/jc141x/setup)
+## [jc141x](https://gitlab.com/jc141x/setup)
 
 Everything you need to do before playing our releases.
 
-## [jc141 - RSS feed](https://github.com/jc141x/releases-feed)
+## [jc141x - RSS feed](https://github.com/jc141x/releases-feed)
 
 
-## [jc141 - 1337x.to](https://1337x.to/user/johncena141/)
+## [jc141x - 1337x.to](https://1337x.to/user/johncena141/)
 
 
 Pay attention to the domain; there are many copycats.
@@ -27,7 +27,7 @@ https://github.com/jc141x/rum
 
 
 
-## [jc141 - wine scripts](https://gitlab.com/jc141x/scripting/)
+## [jc141x - wine scripts](https://gitlab.com/jc141x/scripting/)
 
 
 Donations - Monero: 4ABGQLAeAgiauvay11VRrWXRRtraRCU6oaC6uG9RUnNCHN4eepzWjEB6sHF92sUrSED5b8GyY7Ayh57R1jUdcKZg7is2DW3
