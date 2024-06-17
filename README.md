@@ -1,15 +1,16 @@
 ## matrix channel for technical support
 
-<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">https://matrix.to/#/#rumpowered:matrix.org</pre>
-<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">Room address: #rumpowered:matrix.org</pre>
+https://matrix.to/#/#rumpowered:matrix.org
+
+Room address: #rumpowered:matrix.org
 
 ## setting up your system drivers
 
-<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">https://gitlab.com/jc141x/setup</pre>
+https://gitlab.com/jc141x/setup
 
 ## browsing jc141x releases on 1337x.to
 
-<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">https://1337x.to/user/johncena141/
+https://1337x.to/user/johncena141/
 
 Pay attention to the domain; there are many copycats.
 
@@ -22,14 +23,14 @@ Pay attention to the domain; there are many copycats.
 
 ## browsing jc141x releases via RSS feed
 
-<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">https://github.com/jc141x/releases-feed</pre>
+https://github.com/jc141x/releases-feed
 
 ## various game launchers with a graphical user interface
 
-<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">https://github.com/jc141x/rum</pre>
+https://github.com/jc141x/rum
 
 ## jc141x specific wine scripts
 
-<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">https://gitlab.com/jc141x/scripting/</pre>
+https://gitlab.com/jc141x/scripting/
 
 ## Donations - Monero: 4ABGQLAeAgiauvay11VRrWXRRtraRCU6oaC6uG9RUnNCHN4eepzWjEB6sHF92sUrSED5b8GyY7Ayh57R1jUdcKZg7is2DW3
