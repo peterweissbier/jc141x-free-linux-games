@@ -1,15 +1,9 @@
 ## [jc141x matrix channel - technical support](https://matrix.to/#/#rumpowered:matrix.org)
 Room address: #rumpowered:matrix.org
 
-## [jc141x](https://gitlab.com/jc141x/setup)
+## Setup your System drivers - everything you need to do before playing our releases.[jc141x](https://gitlab.com/jc141x/setup)
 
-Everything you need to do before playing our releases.
-
-## [jc141x - RSS feed](https://github.com/jc141x/releases-feed)
-
-
-## [jc141x - 1337x.to](https://1337x.to/user/johncena141/)
-
+## [jc141x torrents on 1337x.to](https://1337x.to/user/johncena141/)
 
 Pay attention to the domain; there are many copycats.
 
@@ -20,11 +14,11 @@ Pay attention to the domain; there are many copycats.
 - These are the official 1337x domains. If you came from one with a different domain, then it's fake, and we won't provide support for anything downloaded from there.
 - If your ISP has blocked 1337x, then use [Tor](https://www.torproject.org/), a VPN, or a trusted public proxy. Read more: https://1337x-proxy.github.io/
 
+## [jc141x - RSS feed](https://github.com/jc141x/releases-feed)
+
 ## game launchers
 
 https://github.com/jc141x/rum
-
-
 
 
 ## [jc141x - wine scripts](https://gitlab.com/jc141x/scripting/)
