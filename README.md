@@ -1,7 +1,7 @@
 ## matrix channel for technical support
 
-<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">https://matrix.to/#/#rumpowered:matrix.org
-Room address: #rumpowered:matrix.org</pre>
+<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">https://matrix.to/#/#rumpowered:matrix.org</pre>
+<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">Room address: #rumpowered:matrix.org</pre>
 
 ## setting up your system drivers
 
